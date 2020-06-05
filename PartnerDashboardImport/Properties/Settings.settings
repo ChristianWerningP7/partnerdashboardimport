@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PartnerDashboardImport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="proxylist" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://G02DEPXABGB000.g02.fujitsu.local:82,http://G02DEPXMCHQ000.g02.fujitsu.local:82,http://abgproxya.abg.fsc.net:82,http://abgproxya.abg.fsc.net:81,http://mchproxya.mch.fsc.net:82</Value>
+    </Setting>
+    <Setting Name="logmailto" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">christian.werning@public7.de</Value>
+    </Setting>
+    <Setting Name="logmailcc" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">andrea.franz-roggel@public7.de</Value>
+    </Setting>
+    <Setting Name="logmailfrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">christian.werning@public7.de</Value>
+    </Setting>
+    <Setting Name="showall" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pdbexjsh,pdbexmka,pdbexafr,pdbexrde,prabhakasext,maierp,abgkrebsn,hbgbschr,hmbldreh,mchborth,mchhczie,mchgkeck,ktnmmorg,ternietenf,hmbsfand,werningcext,mchoreis</Value>
+    </Setting>
+    <Setting Name="PartnerDashboardImport_SF_SforceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://fujitsu.my.salesforce.com/services/Soap/u/38.0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

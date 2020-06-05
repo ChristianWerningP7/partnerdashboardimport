@@ -1,0 +1,6 @@
+D:\c#-WindowsAnwendungen\ImportPartnerReportData\ImportPartnerReportData\bin\Debug\ImportPartnerReportData.exe.config
+D:\c#-WindowsAnwendungen\ImportPartnerReportData\ImportPartnerReportData\bin\Debug\ImportPartnerReportData.exe
+D:\c#-WindowsAnwendungen\ImportPartnerReportData\ImportPartnerReportData\bin\Debug\ImportPartnerReportData.pdb
+D:\c#-WindowsAnwendungen\ImportPartnerReportData\ImportPartnerReportData\obj\Debug\ImportPartnerReportData.csproj.CoreCompileInputs.cache
+D:\c#-WindowsAnwendungen\ImportPartnerReportData\ImportPartnerReportData\obj\Debug\ImportPartnerReportData.exe
+D:\c#-WindowsAnwendungen\ImportPartnerReportData\ImportPartnerReportData\obj\Debug\ImportPartnerReportData.pdb
